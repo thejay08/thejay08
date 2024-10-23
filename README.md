@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m a passionate Data Scientist and Data Analyst with over 6 months of experience in data analysis, operational optimization, and customer experience enhancement. My technical expertise includes tools like AWS, Python, and Tableau, and I have a proven track record from my role as a AI/ML Intern. Additionally, I have 6 months of experience as an AI/ML intern, further strengthening my background in data-driven insights and technology.
 
-With extensive experience in tools such as **AWS**, **Linux**, **Python**, **PostgreSQL**, **Tableau**, **Power BI**, and **Excel**, I have successfully led multiple end-to-end data analytics projects. My journey includes working as a AI/ML Intern at *INTECH Creative Services Pvt. Ltd.**, where I leveraged data to drive strategic decisions, enhance customer experiences, and streamline operational workflows.
+With extensive experience in tools such as **AWS**, **Langchain**, **LLms**, **Machine Learning**, **Computer Vision**, **Deep Learning**, **MLFlow**, **Linux**, **Python**, **PostgreSQL**, **Tableau**, **Power BI**, and **Excel**, I have successfully led multiple end-to-end data analytics projects. My journey includes working as a AI/ML Intern at **INTECH Creative Services Pvt. Ltd.**, where I leveraged data to drive strategic decisions, enhance customer experiences, and streamline operational workflows.
 
 
 ## 🌐 Socials:
